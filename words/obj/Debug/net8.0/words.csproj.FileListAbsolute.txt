@@ -1,0 +1,14 @@
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\bin\Debug\net8.0\words.exe
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\bin\Debug\net8.0\words.deps.json
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\bin\Debug\net8.0\words.runtimeconfig.json
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\bin\Debug\net8.0\words.dll
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\bin\Debug\net8.0\words.pdb
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.AssemblyInfoInputs.cache
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.AssemblyInfo.cs
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.csproj.CoreCompileInputs.cache
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.dll
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\refint\words.dll
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.pdb
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\words.genruntimeconfig.cache
+C:\Users\Mink\Desktop\dennes\VS-CODE-TOP\SMS3\words\obj\Debug\net8.0\ref\words.dll
